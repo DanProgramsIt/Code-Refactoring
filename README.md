@@ -9,7 +9,7 @@ Horiseon will place your business in a **high ranking**, where you will make a p
 
  ![Homepage](/assets/images/website-homepage.png)
  _____________________________________________________________________
- Visit the site! [Horiseon](https://danprogramsit.github.io/The-Code-Refactor/)
+ Visit the site! [Horiseon](https://danprogramsit.github.io/Code-Refactoring/)
 
 ____________________________
 ### This website has 3 shortcuts.
@@ -24,11 +24,11 @@ ____________________________
  ______________________________________________________________
 #### To access the navigation information respectively, select one of the following links.
 
-To access:[Search Engine Optimization](https://danprogramsit.github.io/The-Code-Refactor/#search-engine-optimization)
+To access:[Search Engine Optimization](https://danprogramsit.github.io/Code-Refactoring/#search-engine-optimization)
 
-To access:[Online Reputation Management](https://danprogramsit.github.io/The-Code-Refactor/#online-reputation-management)
+To access:[Online Reputation Management](https://danprogramsit.github.io/Code-Refactoring/#online-reputation-management)
 
-To access:[Social Media Marketing](https://danprogramsit.github.io/The-Code-Refactor/#social-media-marketing)
+To access:[Social Media Marketing](https://danprogramsit.github.io/Code-Refactoring/#social-media-marketing)
 
 
 The selected link information will be shown as it appears in the image below.
@@ -45,4 +45,4 @@ ________________________________________________________________________________
 
 
 
-For more information **visit** the site clicking here:[Horiseon](https://danprogramsit.github.io/The-Code-Refactor/)
+For more information **visit** the site clicking here:[Horiseon](https://danprogramsit.github.io/Code-Refactoring/)
